@@ -1,0 +1,10 @@
+zad-1 
+mkdir out
+mkdir -p work/notes
+grep -Ei 'error|warn' data /logs/system.log/warn_err.txt (mialo byc bez i przy -E ale przez pomylke)
+
+
+zad-2
+
+
+zad-3
