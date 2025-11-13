@@ -1,15 +1,17 @@
 zad-1 
 mkdir out
 mkdir -p work/notes
-grep -Ei 'error|warn' data /logs/system.log/warn_err.txt (mialo byc bez i przy -E ale przez pomylke)
+grep -Ei 'error|warn' data /logs/system.log/warn_err.txt (mialo byc bez i przy -E ale przez pomylke chyba uzylem i)
 
 
 zad-2
+cat data/csv/a.csv | tail -5 | sort -b .....
 
 
 zad-3
 mkdir scripts
 skrypt przy uzyciu nano report.sh
+chmod 777 report.sh
 
 zad 4
 git -b kolokwium/mpiskorz2007
